@@ -13,7 +13,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn import metrics
 import pandas as pd
 
-
+!pip intall pyforest
 #### Starting app
 # title and details 
 st.title("Universal Classifier Application")
